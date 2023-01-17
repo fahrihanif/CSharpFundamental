@@ -30,6 +30,6 @@ public class F_Optional
         Console.WriteLine("Ketikan : " + num + ".");
 
         // String interpolation
-        Console.WriteLine($"Ketikan : num.");
+        Console.WriteLine($"Ketikan : {num}.");
     }
 }
